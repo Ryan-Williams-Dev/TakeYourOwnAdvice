@@ -1,5 +1,4 @@
 # TakeYourOwnAdvice
-A GitHub front page for my Take Your Own Advice project
 ---
 
 ## About
