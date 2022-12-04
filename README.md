@@ -1,6 +1,7 @@
 # TakeYourOwnAdvice
 
 [Visit App](https://tyoa.netlify.app/)
+App designed for and best viewed on mobile devices
 
 ## About
  
